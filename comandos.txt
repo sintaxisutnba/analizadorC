@@ -1,0 +1,4 @@
+Para compilar el analizdor:
+    1) lex <archivo LEX> 
+    2) cc lex.yy.c -o analizadorC -ll
+    3) ./analizadorC

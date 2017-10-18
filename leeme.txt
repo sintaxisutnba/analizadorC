@@ -1,0 +1,17 @@
+Realizar un programa que reconozca todos los elementos léxicos de C, es decir, la gramática léxica de C.
+
+Descripcion de archivos incluidos:
+    - comandos.txt      Archivo de comandos para compilar el analizador.
+    - analizadorC   Ejecutable del analizador ya compilado. Se puede ejecutar de la siguiente forma: ./analizadorC
+    - lex_c.l       Contiene las definiciones LEXICAS de C.
+    
+* El archivo lex.yy.c es el archivo que genera LEX al compilar.
+
+Realizado para la materia Sintaxis y Semántica de los Lenguajes - Universidad Tecnológica Nacional Facultad Regional Buenos Aires
+
+Autores:
+    - Liloia Scott, Nicolás.
+    - Masotta, Augusto.
+    - Mendez Corridoni, Matías.
+    
+Año 2017.
